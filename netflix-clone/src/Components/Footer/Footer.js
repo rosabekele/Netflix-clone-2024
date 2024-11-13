@@ -43,7 +43,7 @@ const Footer = () => {
             </ul>
           </div>
         </div>
-        <div ClassName="service_code">
+        <div className="service_code">
           <p>
             Service Code
             </p>
